@@ -28,6 +28,7 @@ No uses "Netlify Drop" (arrastrar la carpeta): publica la página, pero el panel
 
 Los precios son **de ejemplo**: Express $450 / $550 / $800, Básico $850 / $1,000 / $1,400 y Completo $1,500 / $1,800 / $2,400 (hasta 150 cc / 151 a 300 cc / más de 300 cc), más los servicios sueltos. Cámbialos en *Servicios*. El **Servicio Completo** es un paquete nuevo que propuse; si no lo quieres, apaga "Visible en la página".
 
+
 ## El monito
 
-Lo recorté de la imagen del logo que venía en la captura de Instagram, que es pequeña; por eso en grande se ve un poco suave. Si tienes el logo original en alta resolución (PNG o JPG grande), mándalo y se vuelve a recortar más nítido.
+Las capas del monito (`assets/monito-cuerpo.webp`, `monito-pocion.webp` y `monito-liquido.webp`) y el logo redondo (`assets/logo.webp`, `assets/icono.png`) salen de la imagen en alta resolución del personaje. Si algún día cambias el personaje, se regeneran desde una imagen con fondo transparente.
