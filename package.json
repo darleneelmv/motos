@@ -1,0 +1,10 @@
+{
+  "name": "devils-xs-garage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sitio y panel de Devil's XS Garage",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
